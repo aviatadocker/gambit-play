@@ -1,0 +1,1 @@
+Docker Container for running packaged Play! Services.
